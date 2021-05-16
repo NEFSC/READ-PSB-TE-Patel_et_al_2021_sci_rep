@@ -1,10 +1,10 @@
-# A data compendium for: "Projected shifts in loggerhead sea turtle thermal habitat in the Northwest Atlantic Ocean due to climate change""
+# A data compendium for: "Projected shifts in loggerhead sea turtle thermal habitat in the Northwest Atlantic Ocean due to climate change"
 
 ![gitleaks](https://github.com/jmhatch-NOAA/READ-PSB-TE-Patel_et_al_2021_sci_rep/actions/workflows/secretScan.yml/badge.svg)
 
 Our paper is online here:
 
-> Patel, S.H., Winton, M.V., Hatch, J.M. et al. *Projected shifts in loggerhead sea turtle thermal habitat in the Northwest Atlantic Ocean due to climate change*. Sci Rep 11, 8850 (2021). Online at <https://doi.org/10.1038/s41598-021-88290-9>
+> Patel, S.H., Winton, M.V., Hatch, J.M. et al. *Projected shifts in loggerhead sea turtle thermal habitat in the Northwest Atlantic Ocean due to climate change*. Sci Rep 11, 8850 (2021). <https://doi.org/10.1038/s41598-021-88290-9>
 >
 
 ## How to cite
