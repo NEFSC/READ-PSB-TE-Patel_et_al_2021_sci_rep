@@ -1,4 +1,5 @@
 .Rproj.user
 .git
+.Rhistory
 *.Rproj
 R_Code_Leaflet.R
