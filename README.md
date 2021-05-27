@@ -14,7 +14,7 @@ Our paper is online here:
 
 Please cite this data compendium as:
 
-> Patel, S.H., Winton, M.V., Hatch, J.M. et al. (2021). *Data compendium for Projected shifts in loggerhead sea turtle thermal habitat in the Northwest Atlantic Ocean due to climate change*. Accessed DD MM YYYY. Online at <https://doi.org/10.5281/zenodo.479035>
+> Patel, S.H., Winton, M.V., Hatch, J.M. et al. (2021). *Data compendium for Projected shifts in loggerhead sea turtle thermal habitat in the Northwest Atlantic Ocean due to climate change*. Accessed DD MM YYYY. Online at <https://doi.org/10.5281/zenodo.4790359>
 > 
 
 ---
