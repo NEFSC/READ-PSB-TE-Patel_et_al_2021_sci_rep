@@ -3,7 +3,7 @@
 ![gitleaks](https://github.com/jmhatch-NOAA/READ-PSB-TE-Patel_et_al_2021_sci_rep/actions/workflows/secretScan.yml/badge.svg)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4790359.svg)](https://doi.org/10.5281/zenodo.4790359)
 
-:earth_americas: To visualize the data on a Leaflet map, click [here]( https://jmhatch-noaa.github.io/READ-PSB-TE-Patel_et_al_2021_sci_rep/).
+:earth_americas: To visualize the data on a Leaflet map, click [here]( https://NEFSC.github.io/READ-PSB-TE-Patel_et_al_2021_sci_rep/).
 
 Our paper is online here:
 
